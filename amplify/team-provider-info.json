@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bitely-dev-120743-authRole",
+      "UnauthRoleArn": "arn:aws:iam::339713127715:role/amplify-bitely-dev-120743-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::339713127715:role/amplify-bitely-dev-120743-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-bitely-dev-120743-deployment",
+      "UnauthRoleName": "amplify-bitely-dev-120743-unauthRole",
+      "StackName": "amplify-bitely-dev-120743",
+      "StackId": "arn:aws:cloudformation:eu-north-1:339713127715:stack/amplify-bitely-dev-120743/0a021cd0-ba98-11ee-9e79-0630291ac82a",
+      "AmplifyAppId": "d1edphhotkt18m"
+    },
+    "categories": {
+      "api": {
+        "bitely": {}
+      },
+      "auth": {
+        "bitelye4b4122a": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "bitely",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2024-01-24T09:41:19.376Z"
+}

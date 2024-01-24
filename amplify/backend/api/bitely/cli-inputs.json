@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "bitely",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2025-01-23T09:41:05.490Z",
+      "keyDescription": "4kcrbv4vfndlfdt3cjjsi2m6re"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
